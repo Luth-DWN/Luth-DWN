@@ -6,8 +6,8 @@
 <a href="https://discord.gg/user/Phi#5483">
   <img align="left" alt="Luthfi's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="#">
-  <img align="left" alt="Erik Rio Setiawan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://instagram.com/luth_ld?igshid=YmMyMTA2M2Y=">
+  <img align="left" alt="Luthfi Dharmawan | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/LuthDWN/">
   <img align="left" alt="Luthfi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

@@ -42,7 +42,7 @@ Hi, I'm Luthfi Dharmawan, a passionate self-taught Front-End 🚀 from Indonesia
 
 <p align="left">
 <a href="https://github.com/Luth-DWN">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erikrios&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luth-DWN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luth-DWN&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

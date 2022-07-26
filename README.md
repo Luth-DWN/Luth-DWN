@@ -6,8 +6,8 @@
 <a href="https://discord.gg/user/Phi#5483">
   <img align="left" alt="Luthfi's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://instagram.com/luth_ld?igshid=YmMyMTA2M2Y=">
-  <img align="left" alt="Luthfi Dharmawan | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+<a href="https://twitter.com/sehatphi">
+  <img align="left" alt="Luthfi Dharmawan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/LuthDWN/">
   <img align="left" alt="Luthfi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -42,7 +42,7 @@ Hi, I'm Luthfi Dharmawan, a passionate self-taught Front-End 🚀 from Indonesia
 
 <p align="left">
 <a href="https://github.com/Luth-DWN">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erikrios&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luth-DWN&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erikrios&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luth-DWN&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

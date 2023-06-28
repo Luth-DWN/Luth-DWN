@@ -24,7 +24,7 @@ Hi, I'm Luthfi Dharmawan, a passionate self-taught Front-End 🚀 from Indonesia
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning React, PHP, and SQL; 
+- 🌱 I’m currently learning JavaScript, PHP, and SQL; 
 - 💬 Ask me about anything, I'll help if i can;
 - 📫 How to reach me: [luth.dwn@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=luth.dwn@gmail.com);
 <!-- - 📝[Resume](https://Luth-DWN.github.io) -->

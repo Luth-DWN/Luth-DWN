@@ -2,17 +2,6 @@
 **Luth-DWN/Luth-DWN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/user/Phi#5483">
-  <img align="left" alt="Luthfi's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/sehatphi">
-  <img align="left" alt="Luthfi Dharmawan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/LuthDWN/">
-  <img align="left" alt="Luthfi's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Luth-DWN.Luth-DWN)
 
 <br />
